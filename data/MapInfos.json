@@ -1,23 +1,39 @@
 [
 null,
 {"id":1,"expanded":true,"name":"World 3","order":1,"parentId":0,"scrollX":2221.3333333333335,"scrollY":4008},
+<<<<<<< HEAD
 {"id":2,"expanded":true,"name":"Hutan Lye","order":3,"parentId":0,"scrollX":944,"scrollY":581},
 {"id":3,"expanded":true,"name":"Kota Persi","order":4,"parentId":0,"scrollX":944,"scrollY":875},
 {"id":4,"expanded":false,"name":"INN","order":5,"parentId":3,"scrollX":992,"scrollY":713},
 {"id":5,"expanded":false,"name":"Blacksmith","order":6,"parentId":3,"scrollX":944,"scrollY":581},
 {"id":6,"expanded":false,"name":"peternakan","order":7,"parentId":3,"scrollX":1068,"scrollY":750},
 {"id":7,"expanded":false,"name":"Weapon Shop","order":8,"parentId":3,"scrollX":944,"scrollY":581},
+=======
+{"id":2,"expanded":true,"name":"Hutan Lye","order":3,"parentId":0,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":3,"expanded":true,"name":"Kota Persi","order":4,"parentId":0,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":4,"expanded":false,"name":"INN","order":5,"parentId":3,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":5,"expanded":false,"name":"Blacksmith","order":6,"parentId":3,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":6,"expanded":false,"name":"peternakan","order":7,"parentId":3,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":7,"expanded":false,"name":"Weapon Shop","order":8,"parentId":3,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+>>>>>>> d4cb96036d769568f132925e420f67ddff354143
 {"id":8,"expanded":false,"name":"Toolshop","order":9,"parentId":3,"scrollX":640.8,"scrollY":523.1999999999999},
 {"id":9,"expanded":false,"name":"Private House","order":10,"parentId":3,"scrollX":944,"scrollY":581},
 {"id":10,"expanded":false,"name":"Private House","order":11,"parentId":3,"scrollX":786.8571428571428,"scrollY":535.7142857142857},
 {"id":11,"expanded":true,"name":"rumah petani Mike","order":12,"parentId":3,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
 {"id":12,"expanded":false,"name":"kandang ternak Mike","order":13,"parentId":3,"scrollX":1001.4545454545455,"scrollY":681.8181818181819},
+<<<<<<< HEAD
 {"id":13,"expanded":false,"name":"Jalan Desa","order":14,"parentId":0,"scrollX":944,"scrollY":581},
 {"id":14,"expanded":true,"name":"Kerajaan Persi","order":15,"parentId":0,"scrollX":1232,"scrollY":813},
 {"id":15,"expanded":false,"name":"peternakan kerajaan","order":16,"parentId":14,"scrollX":928,"scrollY":619},
+=======
+{"id":13,"expanded":false,"name":"Jalan Desa","order":14,"parentId":0,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":14,"expanded":true,"name":"Kerajaan Persi","order":15,"parentId":0,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+{"id":15,"expanded":false,"name":"peternakan kerajaan","order":16,"parentId":14,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+>>>>>>> d4cb96036d769568f132925e420f67ddff354143
 {"id":16,"expanded":false,"name":"Istana lantai 1","order":18,"parentId":17,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
-{"id":17,"expanded":true,"name":"Istana Lantai 2","order":17,"parentId":14,"scrollX":1040,"scrollY":867},
+{"id":17,"expanded":true,"name":"Istana Lantai 2","order":17,"parentId":14,"scrollX":1424,"scrollY":1106.6666666666667},
 {"id":18,"expanded":false,"name":"Stone Cave","order":2,"parentId":1,"scrollX":1445.3333333333333,"scrollY":813.3333333333334},
+<<<<<<< HEAD
 {"id":19,"expanded":false,"name":"Enemy 1","order":19,"parentId":0,"scrollX":1040,"scrollY":725},
 {"id":20,"expanded":false,"name":"Enemy 4","order":22,"parentId":0,"scrollX":1424,"scrollY":853},
 {"id":21,"expanded":false,"name":"Enemy 5","order":23,"parentId":0,"scrollX":1424,"scrollY":866.6666666666666},
@@ -25,4 +41,13 @@ null,
 {"id":23,"expanded":false,"name":"Enemy 3","order":21,"parentId":22,"scrollX":1424,"scrollY":1005},
 {"id":24,"expanded":false,"name":"Enemy 6","order":24,"parentId":0,"scrollX":1424,"scrollY":1587},
 {"id":25,"expanded":false,"name":"Enemy 7","order":25,"parentId":0,"scrollX":1008,"scrollY":1195}
+=======
+{"id":19,"expanded":false,"name":"Enemy 1","order":19,"parentId":0,"scrollX":1424,"scrollY":1106.6666666666667},
+{"id":20,"expanded":false,"name":"Enemy 4","order":22,"parentId":0,"scrollX":1424,"scrollY":853.3333333333334},
+{"id":21,"expanded":false,"name":"Enemy 5","order":23,"parentId":0,"scrollX":1424,"scrollY":866.6666666666666},
+{"id":22,"expanded":true,"name":"enemy 2","order":20,"parentId":0,"scrollX":1424,"scrollY":866.6666666666666},
+{"id":23,"expanded":false,"name":"Enemy 3","order":21,"parentId":22,"scrollX":1424,"scrollY":813.3333333333334},
+{"id":24,"expanded":false,"name":"Enemy 6","order":24,"parentId":0,"scrollX":1424,"scrollY":813.3333333333334},
+{"id":25,"expanded":false,"name":"Enemy 7","order":25,"parentId":0,"scrollX":1424,"scrollY":813.3333333333334}
+>>>>>>> d4cb96036d769568f132925e420f67ddff354143
 ]
