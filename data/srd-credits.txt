@@ -1,0 +1,98 @@
+Credits Plugin
+SumRndmDde
+
+This is a plugin that adds an entirely new scene to your game for the
+purpose of giving credit!
+
+Anyway, here’s how you set things up:
+
+========================================================================
+Calling the Credits Page
+========================================================================
+
+In order to open the Credits, simply use the Plugin Command:
+
+OpenCredits
+
+Or, alternatively, you can use the script call:
+
+SceneManager.push(Scene_SRD_Credits)
+
+If you wish to bind it to the menu using Yanfly’s Main Menu Manager,
+use the following bind:
+
+this.openCredits.bind(this)
+
+========================================================================
+Creating Categories
+========================================================================
+
+In the Parameters, there are section for each category.
+Categories are primarily meant to be things like:
+Plugins, Music, Tilesets, etc…
+
+Any category that has a name that isn’t blank will be shown in game.
+
+========================================================================
+Creating Credits
+========================================================================
+
+Underneath a category’s name is its credits.
+This is simply a list of each credit you wish to give separated with
+commas.
+
+An example of this would be:
+
+SumRndmDde, Google, The World, Dio, Butts
+
+Each one of these will be listed in the credits window and can have
+their own link and description.
+
+========================================================================
+Creating Credits File
+========================================================================
+
+To properly use this Plugin, one must also create a text file.
+The text file needs to be in the data folder and called “srd-text.txt”.
+
+Within this file, you need to create notetags to set up the links and
+descriptions for each credit.
+
+========================================================================
+Setting a Link for a Credit
+========================================================================
+
+To set up a link for a credit, use the notetag within the file:
+
+<[Name] Link: [Link]>
+
+For example:
+
+<SumRndmDde Link: http://sumrndm.site>
+
+This would make it so clicking on a credit named “SumRndmDde” would open
+up my site. 🙂
+
+========================================================================
+Setting a Description for a Credit
+========================================================================
+
+To set up a description for a credit, use the notetag within the file:
+
+<[Name] Description>
+
+</[Name] Description>
+
+For example:
+
+<SumRndmDde Description>
+Used some random plugins.
+They were pretty cool I guess.
+Only used the credit one though.
+I give it a 7/10.
+</SumRndmDde Description>
+
+This would make that description appear in the description window when
+the credit “SumRndmDde” is highlighted.
+
+Also keep in mind that you can use text codes!
